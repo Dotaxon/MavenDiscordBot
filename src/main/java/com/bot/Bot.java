@@ -13,7 +13,7 @@ import javax.security.auth.login.LoginException;
 public class Bot {
     private static JDA jda;
     private static String tokenVariable = "TOKENMEMER_BETA";
-    public static String pathFile = "paths-linux";
+    public static String pathFile = "paths";
     private Bot() throws LoginException, InterruptedException
     {
 
