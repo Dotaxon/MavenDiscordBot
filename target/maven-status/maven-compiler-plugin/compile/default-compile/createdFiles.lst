@@ -1,0 +1,16 @@
+commands\Id.class
+lavaPlayer\PlayerManager$1.class
+lavaPlayer\TrackScheduler.class
+lavaPlayer\GuildMusicManager.class
+com\bot\Bot.class
+commands\Help.class
+lavaPlayer\AudioPlayerSendHandler.class
+commands\Shutdown.class
+lavaPlayer\PlayerManager.class
+commands\Startup.class
+commands\GetPrefix.class
+commands\Play.class
+com\bot\Secret.class
+commands\MusicJoinLeave.class
+com\bot\Path.class
+commands\Clear.class

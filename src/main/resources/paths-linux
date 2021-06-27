@@ -1,0 +1,14 @@
+WOW=/home/vincent/Bot/DiscordBotDaten/wow.wav
+OK=/home/vincent/Bot/DiscordBotDaten/ok.wav
+TROMMELWIRBEL=/home/vincent/Bot/DiscordBotDaten/drumroll.mp3
+TW=/home/vincent/Bot/DiscordBotDaten/drumroll.mp3
+DUMMKOPF=/home/vincent/Bot/DiscordBotDaten/Dummkopf.mp3
+HANDGEGENKOPF=/home/vincent/Bot/DiscordBotDaten/gegen_den_kopf_schlagen.mp3
+HGK=/home/vincent/Bot/DiscordBotDaten/gegen_den_kopf_schlagen.mp3
+WILHELM=/home/vincent/Bot/DiscordBotDaten/Wilhelm.mp3
+NOTIFY=/home/vincent/Bot/DiscordBotDaten/notify-discord.mp3
+2000YEARSLATER=/home/vincent/Bot/DiscordBotDaten/2000years_later.mp3
+KEINBOCK=/home/vincent/Bot/DiscordBotDaten/keinenbock.mp3
+
+COMMAND_BLOCK=/home/vincent/Bot/DiscordBotDaten/command_block.jpg
+QUESTION_Mark=/home/vincent/Bot/DiscordBotDaten/question_mark.png
