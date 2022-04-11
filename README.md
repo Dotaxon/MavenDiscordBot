@@ -6,7 +6,7 @@ This Discord Bot is capable of playing sounds from YouTube or a local .wav
 
 ## Important Note:
 
-By local .wav files you have to use absolute paths you can configure these in:
+If you want to use local .wav files you have to use absolute paths. You can configure these in:
 
 src > main > resources > paths or paths-linux
 
