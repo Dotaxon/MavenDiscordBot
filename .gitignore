@@ -1,5 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/src/main/resources/env
+#/src/main/resources/env
+*.class
 *.class
